@@ -1,4 +1,5 @@
 # by Bekzat
+# new
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
         if len(needle) == 0:
